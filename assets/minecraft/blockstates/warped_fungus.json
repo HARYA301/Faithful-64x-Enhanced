@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/warped_fungus"},
+            { "model": "block/warped_fungus/2"},
+            { "model": "block/warped_fungus/3"}
+        ]
+    }
+}

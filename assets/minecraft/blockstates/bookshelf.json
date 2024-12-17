@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/bookshelf", "weight": 3 },
+            { "model": "block/bookshelf/1", "weight": 3 },
+            { "model": "block/bookshelf/2", "weight": 3 }
+        ]
+    }
+}

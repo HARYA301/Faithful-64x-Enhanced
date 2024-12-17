@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/shroomlight" },
+            { "model": "block/shroomlight/2" },
+			{ "model": "block/shroomlight/3" }
+        ]
+    }
+}

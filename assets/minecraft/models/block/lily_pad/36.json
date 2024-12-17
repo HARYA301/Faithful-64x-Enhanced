@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/lily_pad17_big",
+		"particle": "block/lily_pad17_big"
+	},
+	"elements": [
+		{
+			"from": [-8, 0.255, -8],
+			"to": [24, 0.255, 24],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

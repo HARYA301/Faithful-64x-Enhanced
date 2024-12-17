@@ -1,0 +1,9 @@
+chest border planks shadows:
+Lumo -30
+Contrast -20
+Saturation 70
+
+chest border planks higlight:
+Lumo 30
+Contrast -20
+Saturation 70

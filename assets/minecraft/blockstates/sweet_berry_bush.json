@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "age=0": [
+				{ "model": "block/sweet_berry_bush/0" }
+			],
+		"age=1": [
+				{ "model": "block/sweet_berry_bush/1" }
+			],
+		"age=2": [
+		        { "model": "block/sweet_berry_bush/2_0" },
+				{ "model": "block/sweet_berry_bush/2_1" },
+				{ "model": "block/sweet_berry_bush/2_2" }
+			],
+        "age=3": [
+		        { "model": "block/sweet_berry_bush/3_0" },
+				{ "model": "block/sweet_berry_bush/3_1" },
+				{ "model": "block/sweet_berry_bush/3_2" }
+			]
+    }
+}

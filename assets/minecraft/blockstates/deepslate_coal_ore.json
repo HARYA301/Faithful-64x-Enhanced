@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/deepslate_coal_ore" },
+            { "model": "block/deepslate_coal_ore/1" },
+			{ "model": "block/deepslate_coal_ore/2" },
+			{ "model": "block/deepslate_coal_ore/3" },
+			{ "model": "block/deepslate_coal_ore/4" }
+        ]
+    }
+}
+

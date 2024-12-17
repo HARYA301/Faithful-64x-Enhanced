@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/azure_bluet" },
+            { "model": "block/azure_bluet/2" },
+            { "model": "block/azure_bluet/3" },
+			{ "model": "block/azure_bluet/4" }
+        ]
+    }
+}

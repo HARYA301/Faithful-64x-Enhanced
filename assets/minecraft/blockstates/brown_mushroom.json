@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/brown_mushroom"},
+            { "model": "block/brown_mushroom/2"},
+            { "model": "block/brown_mushroom/3"}
+        ]
+    }
+}

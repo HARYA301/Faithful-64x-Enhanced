@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/pumpkin" },
+            { "model": "block/pumpkin/1" },
+            { "model": "block/pumpkin/2" },
+			{ "model": "block/pumpkin/3" },
+			{ "model": "block/pumpkin/4" },
+			{ "model": "block/pumpkin/5" }
+        ]
+    }
+}

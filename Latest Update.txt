@@ -1,0 +1,23 @@
+Latest update of AE:
+
+- Added Blocks -
+* Chiseled Bookshelf
+* Bee Nest
+* Azure Bluet
+* Mossy Cobblestone
+* Two news variants for grass block top
+
+- Changed Blocks -
+* Allium
+* Cobblestone
+* Corn Flower
+* Cracked Stone Bricks
+* Nether Sprouts
+* Horn Coral
+* Fire Coral
+* Pumpkin
+* Flowering Azalea
+* Lily Of the Valley
+
+- Removed Entities -
+* All CEM/Optifine features. They do not reflect the aspect of the pack anymore & I don't wanted to make exclusive features for none-Optifine players.

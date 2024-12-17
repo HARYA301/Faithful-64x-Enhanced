@@ -1,0 +1,63 @@
+{
+	"multipart": [
+		{
+            "apply": [
+			    { "model": "block/brewing_stand" }
+			]
+        },
+        {   "when": { "has_bottle_0": true },
+            "apply": [
+			    { "model": "block/brewing_stand_bottle0" },
+				{ "model": "block/brewing_stand_bottle0/0_1" },
+				{ "model": "block/brewing_stand_bottle0/0_2" },
+				{ "model": "block/brewing_stand_bottle0/0_3" },
+				{ "model": "block/brewing_stand_bottle0/0_4" },
+				{ "model": "block/brewing_stand_bottle0/0_5" },
+				{ "model": "block/brewing_stand_bottle0/0_6" },
+				{ "model": "block/brewing_stand_bottle0/0_7" },
+				{ "model": "block/brewing_stand_bottle0/0_8" },
+				{ "model": "block/brewing_stand_bottle0/0_9" },
+				{ "model": "block/brewing_stand_bottle0/0_10" }
+			]
+        },
+        {   "when": { "has_bottle_1": true },
+            "apply": [
+			    { "model": "block/brewing_stand_bottle1" },
+				{ "model": "block/brewing_stand_bottle1/1_1" },
+				{ "model": "block/brewing_stand_bottle1/1_2" },
+				{ "model": "block/brewing_stand_bottle1/1_3" },
+				{ "model": "block/brewing_stand_bottle1/1_4" },
+				{ "model": "block/brewing_stand_bottle1/1_5" },
+				{ "model": "block/brewing_stand_bottle1/1_6" },
+				{ "model": "block/brewing_stand_bottle1/1_7" },
+				{ "model": "block/brewing_stand_bottle1/1_8" },
+				{ "model": "block/brewing_stand_bottle1/1_9" },
+				{ "model": "block/brewing_stand_bottle1/1_10" }
+			]
+        },
+        {   "when": { "has_bottle_2": true },
+            "apply": [
+			    { "model": "block/brewing_stand_bottle2" },
+				{ "model": "block/brewing_stand_bottle2/2_1" },
+				{ "model": "block/brewing_stand_bottle2/2_2" },
+				{ "model": "block/brewing_stand_bottle2/2_3" },
+				{ "model": "block/brewing_stand_bottle2/2_4" },
+				{ "model": "block/brewing_stand_bottle2/2_5" },
+				{ "model": "block/brewing_stand_bottle2/2_6" },
+				{ "model": "block/brewing_stand_bottle2/2_7" },
+				{ "model": "block/brewing_stand_bottle2/2_8" },
+				{ "model": "block/brewing_stand_bottle2/2_9" },
+				{ "model": "block/brewing_stand_bottle2/2_10" }
+			]
+        },
+        {   "when": { "has_bottle_0": false },
+            "apply": { "model": "block/brewing_stand_empty0" }
+        },
+        {   "when": { "has_bottle_1": false },
+            "apply": { "model": "block/brewing_stand_empty1" }
+        },
+        {   "when": { "has_bottle_2": false },
+            "apply": { "model": "block/brewing_stand_empty2" }
+        }
+    ]
+}

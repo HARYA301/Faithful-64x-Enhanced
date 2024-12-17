@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/blue_orchid" },
+            { "model": "block/blue_orchid/1" },
+            { "model": "block/blue_orchid/2" },
+			{ "model": "block/blue_orchid/3" },
+			{ "model": "block/blue_orchid/4" },
+			{ "model": "block/blue_orchid/5" },
+			{ "model": "block/blue_orchid/6" },
+			{ "model": "block/blue_orchid/7" },
+			{ "model": "block/blue_orchid/8" },
+			{ "model": "block/blue_orchid/9" },
+			{ "model": "block/blue_orchid/10" },
+			{ "model": "block/blue_orchid/11" },
+			{ "model": "block/blue_orchid/12" },
+			{ "model": "block/blue_orchid/13" },
+			{ "model": "block/blue_orchid/14" },
+			{ "model": "block/blue_orchid/15" },
+			{ "model": "block/blue_orchid/16" },
+			{ "model": "block/blue_orchid/17" },
+			{ "model": "block/blue_orchid/18" },
+			{ "model": "block/blue_orchid/19" }
+        ]
+    }
+}

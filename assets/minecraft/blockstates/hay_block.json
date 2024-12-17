@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "axis=x": [
+        	{ "model": "minecraft:block/hay_block_horizontal", "x": 90, "y": 90 },
+			{ "model": "block/hay_ball/horizontal/2", "x": 90, "y": 90 },
+			{ "model": "block/hay_ball/horizontal/3", "x": 90, "y": 90 },
+			{ "model": "block/hay_ball/horizontal/4", "x": 90, "y": 90 }
+        ],
+        "axis=y": [
+        	{ "model": "minecraft:block/hay_block" },
+			{ "model": "block/hay_ball/vertical/2" },
+			{ "model": "block/hay_ball/vertical/3" },
+			{ "model": "block/hay_ball/vertical/4" }
+        ],
+        "axis=z": [
+        	{ "model": "minecraft:block/hay_block_horizontal", "x": 90 },
+			{ "model": "block/hay_ball/horizontal/2", "x": 90 },
+			{ "model": "block/hay_ball/horizontal/3", "x": 90 },
+			{ "model": "block/hay_ball/horizontal/4", "x": 90 }
+        ]
+    }
+}

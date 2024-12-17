@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/lily_pad17_big_leaves"
+	},
+	"elements": [
+		{
+			"from": [-8, 0.255, -8],
+			"to": [24, 0.255, 24],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#1", "tintindex": 0}
+			}
+		}
+	]
+}
